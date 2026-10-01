@@ -1,0 +1,55 @@
+PE row 0 SRAM:
+  addr 0 = 00016419   <- matrix start
+  addr 1 = 0001666e                  
+  addr 2 = 0001015b                  
+  addr 3 = 00010749                  
+  addr 4 = 0001bd65                  
+  addr 5 = 0000ad96   <- matrix start
+  addr 6 = 0000ae4f                  
+  addr 7 = 0000c19f                  
+  addr 8 = 000161aa                  
+  addr 9 = 000116ca                  
+PE row 1 SRAM:
+  addr 0 = 0001127b   <- matrix start
+  addr 1 = 00013ea0                  
+  addr 2 = 00017d1f                  
+  addr 3 = 0000f768                  
+  addr 4 = 00016f8b                  
+  addr 5 = 0000a833   <- matrix start
+  addr 6 = 0000ef38                  
+  addr 7 = 0001073e                  
+  addr 8 = 0000cd18                  
+  addr 9 = 0000fa53                  
+PE row 2 SRAM:
+  addr 0 = 00015fee   <- matrix start
+  addr 1 = 0001a037                  
+  addr 2 = 00023c10                  
+  addr 3 = 00014072                  
+  addr 4 = 00019d56                  
+  addr 5 = 00012f43   <- matrix start
+  addr 6 = 0001937b                  
+  addr 7 = 0001a361                  
+  addr 8 = 0000a749                  
+  addr 9 = 00015415                  
+PE row 3 SRAM:
+  addr 0 = 0001a02e   <- matrix start
+  addr 1 = 00025296                  
+  addr 2 = 0001805e                  
+  addr 3 = 0001aebb                  
+  addr 4 = 000211e4                  
+  addr 5 = 0000e017   <- matrix start
+  addr 6 = 000154b0                  
+  addr 7 = 0001cb41                  
+  addr 8 = 00013707                  
+  addr 9 = 00012eeb                  
+PE row 4 SRAM:
+  addr 0 = 00020477   <- matrix start
+  addr 1 = 00025f6e                  
+  addr 2 = 0001fbf3                  
+  addr 3 = 0001bc8e                  
+  addr 4 = 00028227                  
+  addr 5 = 00012af7   <- matrix start
+  addr 6 = 000172f0                  
+  addr 7 = 0001c05e                  
+  addr 8 = 00019b4a                  
+  addr 9 = 0001a363                  

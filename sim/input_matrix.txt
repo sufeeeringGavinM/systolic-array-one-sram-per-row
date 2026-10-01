@@ -1,0 +1,6 @@
+// 5x5, row-major, hex
+60 a4 85 94 eb
+de 23 9f f8 e6
+f2 f4 c3 38 3b
+ac 1f 80 d3 64
+c0 bf 44 fb b9

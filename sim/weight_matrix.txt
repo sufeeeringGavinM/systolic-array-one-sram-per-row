@@ -1,0 +1,6 @@
+// 5x5, row-major, hex
+06 a8 fd d3 b2
+b1 9c ad 1f bc
+09 3e ce 5f 60
+e6 58 11 d6 ea
+70 1f 20 9d 9d
